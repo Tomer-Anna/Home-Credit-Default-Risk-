@@ -27,7 +27,8 @@ The Area Under the Curve (AUC) is the integral of the curve (ROC). This metric p
 ## Results
 
 The XGBoost provides the best performance from all the algorithms I used (including ANN).
-The test ROC AUC score is: **0.7689**
+The test ROC AUC score is: **0.7689**.
+
 In order to make a comparison, we can look at the best score from this competition which is 0.81 (by using all data files).
 
 
